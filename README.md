@@ -1,1 +1,1 @@
-# Projects-on-Data-Science And Machine Learning
+# Projects on Data Science And Machine Learning
